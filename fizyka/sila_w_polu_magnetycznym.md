@@ -16,3 +16,4 @@ s. 154 podręcznik.
 
 Ramka prewodzi prąd, więc działa na nią siła. 
 s. 154 podręcznik.
+![silnik prądu stałego](./silnik.png)
