@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5d356e067035050d",
+        "id": "7cdb24cc4d59eb63",
         "type": "tabs",
         "children": [
           {
-            "id": "5af648d69f3db7cd",
+            "id": "8cfa946617bd9b6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fizyka/sila_w_polu_magnetycznym.md",
+                "file": "polski/Konrad Walenrod tekst.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fizyka/sila_w_polu_magnetycznym.md",
+                "file": "polski/Konrad Walenrod tekst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fizyka/sila_w_polu_magnetycznym.md",
+                "file": "polski/Konrad Walenrod tekst.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fizyka/sila_w_polu_magnetycznym.md"
+                "file": "polski/Konrad Walenrod tekst.md"
               }
             }
           }
@@ -146,9 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5af648d69f3db7cd",
+  "active": "8cfa946617bd9b6b",
   "lastOpenFiles": [
-    "fizyka/silnik.png",
-    "fizyka/sila_w_polu_magnetycznym.md"
+    "polski/Rola poety i poezji na podstawie \"Konrada Wallenroda\".md",
+    "polski/Konrad Walenrod tekst.md",
+    "polski/Konrad Walenrod.md",
+    "niemiecki/5.3 Job gesucht.md",
+    "niemiecki",
+    "fizyka/Siła w polu magnetycznym.md",
+    "fizyka/silnik.png"
   ]
 }

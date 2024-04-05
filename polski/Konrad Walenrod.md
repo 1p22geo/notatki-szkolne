@@ -1,3 +1,4 @@
+#polski
 # Rekonstrukcja historii Konrada
 
 - litwin porwany przez Krzyżaków
@@ -22,9 +23,7 @@ Wychodzi prawda na jaw, dowiadują się że ich wieli mistrz jest zdrajcą.
 Prowadzi działania wojenne z Litwą w taki sposób że Krzyżacy ponoszą klęskę.
 Zakonnicy wykrywają zdradę mistrza i skazują go na śmierć.
 
-Przed śmiercią rozmawiał z Aldoną, żeby uciekli razem. Aldona nie chce uciekać razem z nim,
-  więc Konrad popełnia samobójstwo wypijając truciznę i wkrótce gaśnie światło w jego izbie,
-  widząc to Aldona też się zabija.
+Przed śmiercią rozmawiał z Aldoną, żeby uciekli razem. Aldona nie chce uciekać razem z nim, więc Konrad popełnia samobójstwo wypijając truciznę i wkrótce gaśnie światło w jego izbie, widząc to Aldona też się zabija.
 
 
 # Tragizm Konrada Walenroda
@@ -36,3 +35,16 @@ Dotyczy ona wyboru między równorzędnymi racjami.
 > Szczęscia w domu nie znalazł, bo go nie było w ojczyźnie.
 
 > Stokroś przeklęta godzina, w której od wrogów zmuszony chwycę się tego sposobu.
+
+Konrad Wallenrod jest romantycznym bohaterem tragicznym - musi wybrać między równorzędnymi wartościami - dobrem ojczyzny a swoją ukochaną Kobietą.
+
+Mickiewicz stworzył bohatera tragicznego jak Konrad Walenrod jako kostium historyczny żeby zmotywować lud polski do walki, że jest szansa na zwycięstwo i pokonanie cara w Rosji, ale cenzura nigdy by nie przepuściła jego utworu gdyby odwołał się do Rosji, dlatego użył *maski historycznej* - odwołał się do starszych czasów i podobnej sytuacji aby przekonać polaków że można pokonać Rosję, ale walcząc jak lis, nie jak lew.
+
+## Ballada "Alpuhara"
+
+Ballada "Alpuhara" przedstawia obronę twierdzy Maurów przed liczniejszymi siłami Hiszpanów. Arabowie nie mieli żadnych szans na odniesienie zwycięstwa, byli także dziesiątkowani przez zarazę.
+
+Podczas gdy Hiszpanie świętowali zwycięstwo, **Almanzor**, przywódca Maurów poddał się, zapukał do bram miasta i wymieniając uściski z Hiszpanami, zarażał ich dżumą. Będąc w stanie agonalnych upadł przed Królem Hiszpanii, mówiąc ostatnie słowa:
+
+> *"Ja wam zarazę przyniosłem."*
+

@@ -1,4 +1,4 @@
-# Siła w polu magnetycznym
+#fizyka
 
 Na naładowaną cząstkę poruszającą się w polu magnetycznym ale nie wzdłuż linii pola działa siła magnetyczna. Jest ona prostopadła do linii pola i do kierunku ruchu cząstki.
 
