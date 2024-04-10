@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7cdb24cc4d59eb63",
+        "id": "8a0b93bb1847afc2",
         "type": "tabs",
         "children": [
           {
-            "id": "8cfa946617bd9b6b",
+            "id": "c6909a2798291a99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "polski/Konrad Walenrod tekst.md",
+                "file": "polski/Polski poeta w grobie Agamemnona - ocena polskiego społeczeństwa w wierszu Słowackiego.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fe0cf1c57896cb19",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "polski/Konrad Walenrod tekst.md",
+                "file": "polski/Polski poeta w grobie Agamemnona - ocena polskiego społeczeństwa w wierszu Słowackiego.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "polski/Konrad Walenrod tekst.md",
+                "file": "polski/Polski poeta w grobie Agamemnona - ocena polskiego społeczeństwa w wierszu Słowackiego.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "polski/Konrad Walenrod tekst.md"
+                "file": "polski/Polski poeta w grobie Agamemnona - ocena polskiego społeczeństwa w wierszu Słowackiego.md"
               }
             }
           }
@@ -146,11 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8cfa946617bd9b6b",
+  "active": "c6909a2798291a99",
   "lastOpenFiles": [
     "polski/Rola poety i poezji na podstawie \"Konrada Wallenroda\".md",
+    "polski/Polski poeta w grobie Agamemnona - ocena polskiego społeczeństwa w wierszu Słowackiego.md",
     "polski/Konrad Walenrod tekst.md",
     "polski/Konrad Walenrod.md",
+    "chemia/Zmiany stężenia roztworów.md",
+    "chemia",
     "niemiecki/5.3 Job gesucht.md",
     "niemiecki",
     "fizyka/Siła w polu magnetycznym.md",
