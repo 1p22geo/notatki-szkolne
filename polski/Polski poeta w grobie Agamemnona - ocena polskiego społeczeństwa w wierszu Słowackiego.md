@@ -15,3 +15,5 @@ Opis grobowca jest niezwykle zmysłowy, czuć zapach cząbrów, cyk świerszczy.
 W kolejnej części poematu podmiot liryczny - poeta poddaje się uniesieniu i wędruje ponad grecją na skrzydlatym koniu. Przywołuje wówczas dwa miejsca, ważne dla historii Greków: Termopile - symbol patriotyzmu, poświęcenia dla ojczyzny, oraz Heroneę - symbol klęski, tchórzowstwa. Jako przedstawiciel Polaków zatrzymuje się w Heronei. Uważa, że Polacy w czasie powstania listopadowego nie wykazali się taką odwagą jak Spartanie, oni potrafili walczyć do końca, by ocalić nie tylko ojczyznę, ale i honor.
 
 Nagi trup Leonidasa, pozbawiony kontusza, złotego pasa, jest symbolem piękna duchowego i umiejętności stawiania dobra ogółu nad własne. Heronea jest natomiast symbolem tchórzowstwa, braku jedności narodu i wiary w zwycięstwo. To do niej porównuje postawę Polaków w powstaniu listopadowym.
+
+Słowacki przynaje się do własnej winy, bo nie brał udziału w powstaniu listopadowym.
