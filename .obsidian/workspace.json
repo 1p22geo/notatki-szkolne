@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fizyka/Indukcja elektromagnetyczna.md",
+                "file": "niemiecki/5.4 Passiv.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fizyka/Indukcja elektromagnetyczna.md",
+                "file": "niemiecki/5.4 Passiv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fizyka/Indukcja elektromagnetyczna.md",
+                "file": "niemiecki/5.4 Passiv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fizyka/Indukcja elektromagnetyczna.md"
+                "file": "niemiecki/5.4 Passiv.md"
               }
             }
           }
@@ -148,15 +148,16 @@
   },
   "active": "4286e9eba14bef92",
   "lastOpenFiles": [
-    "chemia/Zmiany stężenia roztworów.md",
+    "niemiecki/5.3 Job gesucht.md",
+    "niemiecki/5.4 Passiv.md",
     "fizyka/Indukcja elektromagnetyczna.md",
+    "chemia/Zmiany stężenia roztworów.md",
     "fizyka/Siła w polu magnetycznym.md",
     "polski/Polski poeta w grobie Agamemnona - ocena polskiego społeczeństwa w wierszu Słowackiego.md",
     "polski/Rola poety i poezji na podstawie \"Konrada Wallenroda\".md",
     "polski/Konrad Walenrod tekst.md",
     "polski/Konrad Walenrod.md",
     "chemia",
-    "niemiecki/5.3 Job gesucht.md",
     "niemiecki",
     "fizyka/silnik.png"
   ]
