@@ -1,5 +1,8 @@
 #chemia 
 
+$$ C_p · d_t = C_m · M $$
+
+
 2024-04-12 karta pracy roztwory
 
 1. Oblicz ile gramów substancji należy dodać do 250g roztworu tej substancji o stężeniu 10% aby otrzymać roztwór 15%

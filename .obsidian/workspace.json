@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "niemiecki/5.4 Passiv.md",
+                "file": "chemia/Roztwory - powtórzenie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "niemiecki/5.4 Passiv.md",
+                "file": "chemia/Roztwory - powtórzenie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "niemiecki/5.4 Passiv.md",
+                "file": "chemia/Roztwory - powtórzenie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "niemiecki/5.4 Passiv.md"
+                "file": "chemia/Roztwory - powtórzenie.md"
               }
             }
           }
@@ -148,15 +148,22 @@
   },
   "active": "4286e9eba14bef92",
   "lastOpenFiles": [
-    "niemiecki/5.3 Job gesucht.md",
-    "niemiecki/5.4 Passiv.md",
-    "fizyka/Indukcja elektromagnetyczna.md",
     "chemia/Zmiany stężenia roztworów.md",
-    "fizyka/Siła w polu magnetycznym.md",
-    "polski/Polski poeta w grobie Agamemnona - ocena polskiego społeczeństwa w wierszu Słowackiego.md",
+    "chemia/Roztwory - powtórzenie.md",
+    "polski/Prezentacja dotycząca malarstwa romantycznego.md",
+    "polski/Grób Agamemnona.md",
     "polski/Rola poety i poezji na podstawie \"Konrada Wallenroda\".md",
-    "polski/Konrad Walenrod tekst.md",
     "polski/Konrad Walenrod.md",
+    "polski/Polski poeta w grobie Agamemnona - ocena polskiego społeczeństwa w wierszu Słowackiego.md",
+    "polski/Konrad Walenrod - historia tragiczna.md",
+    "niemiecki/5.4 Passiv.md",
+    "polski/Grób Agamemnona tekst.md2",
+    "polski/Grób Agamemnona tekst.md~",
+    "polski/script.py~",
+    "polski/script.py",
+    "niemiecki/5.3 Job gesucht.md",
+    "fizyka/Indukcja elektromagnetyczna.md",
+    "fizyka/Siła w polu magnetycznym.md",
     "chemia",
     "niemiecki",
     "fizyka/silnik.png"

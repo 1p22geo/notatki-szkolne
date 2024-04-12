@@ -1,4 +1,5 @@
 #polski 
+[[Konrad Walenrod]]
 ## Poezja wg słów Halbana (pieśń Waldeloty)
 
 1. Poezja ocala od zapomnienia, ponieważ łączy przeszłość i współczesność
