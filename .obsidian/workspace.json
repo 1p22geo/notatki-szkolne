@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "061650e7e7e6c3ba",
+        "id": "064cd6147ecec0ba",
         "type": "tabs",
         "children": [
           {
-            "id": "4286e9eba14bef92",
+            "id": "0d9c5862489f1fb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chemia/Roztwory - powtórzenie.md",
+                "file": "fizyka/Transformator.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chemia/Roztwory - powtórzenie.md",
+                "file": "fizyka/Transformator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chemia/Roztwory - powtórzenie.md",
+                "file": "fizyka/Transformator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chemia/Roztwory - powtórzenie.md"
+                "file": "fizyka/Transformator.md"
               }
             }
           }
@@ -146,22 +146,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4286e9eba14bef92",
+  "active": "0d9c5862489f1fb7",
   "lastOpenFiles": [
-    "chemia/Zmiany stężenia roztworów.md",
-    "chemia/Roztwory - powtórzenie.md",
-    "polski/Prezentacja dotycząca malarstwa romantycznego.md",
-    "polski/Grób Agamemnona.md",
-    "polski/Rola poety i poezji na podstawie \"Konrada Wallenroda\".md",
-    "polski/Konrad Walenrod.md",
-    "polski/Polski poeta w grobie Agamemnona - ocena polskiego społeczeństwa w wierszu Słowackiego.md",
+    "polski/Krytyka przywódców powstania listopadowego.md",
+    "fizyka/Transformator.md",
+    "polski/Kordian.md",
     "polski/Konrad Walenrod - historia tragiczna.md",
+    "polski/Rola poety i poezji na podstawie \"Konrada Wallenroda\".md",
+    "biologia/gruczoły hormonalne.md",
+    "angielski/English in use.md",
+    "biologia",
+    "polski/Prezentacja dotycząca malarstwa romantycznego.md",
+    "angielski",
     "niemiecki/5.4 Passiv.md",
+    "niemiecki/5.3 Job gesucht.md",
+    "polski/Opis obrazu w odniesieniu do Kordiana.md",
+    "polski/Konrad Walenrod.md",
+    "polski/O.md",
+    "polski/Polski poeta w grobie Agamemnona - ocena polskiego społeczeństwa w wierszu Słowackiego.md",
+    "chemia/Roztwory - powtórzenie.md",
+    "chemia/Zmiany stężenia roztworów.md",
+    "polski/Grób Agamemnona.md",
     "polski/Grób Agamemnona tekst.md2",
     "polski/Grób Agamemnona tekst.md~",
     "polski/script.py~",
     "polski/script.py",
-    "niemiecki/5.3 Job gesucht.md",
     "fizyka/Indukcja elektromagnetyczna.md",
     "fizyka/Siła w polu magnetycznym.md",
     "chemia",
