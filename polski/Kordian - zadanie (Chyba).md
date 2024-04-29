@@ -1,5 +1,5 @@
 #polski 
-[[Kordian]]
+[[Kordian - bajki]]
 
 ```
 Głównym bohaterem jest oczywiście Kordian. Postać bardzo skomplikowana, niejednorodna, z otwartą historią wynikającą z niejednoznacznego zakończenia utworu.

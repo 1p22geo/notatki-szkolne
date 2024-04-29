@@ -2,6 +2,8 @@
   "accentColor": "#f55c5c",
   "theme": "obsidian",
   "interfaceFontFamily": "3270 Nerd Font Propo",
-  "textFontFamily": "3270 Nerd Font Propo",
-  "monospaceFontFamily": "3270 Nerd Font Mono"
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "3270 Nerd Font Mono",
+  "baseFontSizeAction": true,
+  "baseFontSize": 19
 }
