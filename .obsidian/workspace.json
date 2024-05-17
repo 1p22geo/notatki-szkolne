@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f003b5f8e88624a6",
+        "id": "030b2eda68e1ce7c",
         "type": "tabs",
         "children": [
           {
-            "id": "d0fb75f81ed7e511",
+            "id": "998d8e318ac72dcd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "niemiecki/6.2 Im Einkaufszentrum.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "niemiecki/6.2 Im Einkaufszentrum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "niemiecki/6.2 Im Einkaufszentrum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "niemiecki/6.2 Im Einkaufszentrum.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,9 +138,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "478243e3eb5e0ce1",
+  "active": "998d8e318ac72dcd",
   "lastOpenFiles": [
+    "polski/Romantyzm/Proces dojrzewania Kordiana w czasie podróży po Europie.md",
+    "polski/Romantyzm/Prezentacja dotycząca malarstwa romantycznego.md",
+    "polski/Romantyzm/Rola poety i poezji na podstawie \"Konrada Wallenroda\".md",
+    "polski/Romantyzm/Konrad Walenrod - historia tragiczna.md",
+    "polski/Romantyzm/Konrad Walenrod.md",
     "polski/Romantyzm/Kordian.md",
+    "przedsięmbiorstwa/2024-05-16 zadanie.md",
+    "Untitled",
+    "przedsięmbiorstwa",
+    "niemiecki/6.2 Im Einkaufszentrum.md",
     "polski/Romantyzm/Grób Agamemnona.md",
     "fizyka/elektryczność i elektromagnetyzm/Transformator.md",
     "polski/Romantyzm",
@@ -160,30 +161,21 @@
     "chemia/Roztwory - powtórzenie.md",
     "angielski/English in use.md",
     "geografia/rypki.md",
-    "niemiecki/6.2 Im Einkaufszentrum.md",
-    "polski/Romantyzm/Konrad Walenrod.md",
     "angielski/Review 8.md",
     "fizyka/elektryczność i elektromagnetyzm/silnik.png",
     "polski/Romantyzm/Heroiczna klęska Kordiana.md",
     "geografia",
-    "polski/Romantyzm/Konrad Walenrod - historia tragiczna.md",
     "polski/Romantyzm/Kordian - bajki.md",
     "polski/Romantyzm/Opis obrazu w odniesieniu do Kordiana.md",
-    "polski/Romantyzm/Proces dojrzewania Kordiana w czasie podróży po Europie.md",
     "biologia/gruczoły hormonalne.md",
     "polski/Romantyzm/Kordian - zadanie (Chyba).md",
-    "polski/Romantyzm/Rola poety i poezji na podstawie \"Konrada Wallenroda\".md",
-    "polski/Romantyzm/Prezentacja dotycząca malarstwa romantycznego.md",
     "polski/Romantyzm/Polski poeta w grobie Agamemnona - ocena polskiego społeczeństwa w wierszu Słowackiego.md",
     "niemiecki/6.1 Was hast du heute an.md",
     "niemiecki/5.4 Passiv.md",
-    "polski/Romantyzm/Krytyka przywódców powstania listopadowego.md",
     "biologia",
     "angielski",
     "polski/Grób Agamemnona tekst.md2",
     "polski/Grób Agamemnona tekst.md~",
-    "polski/script.py~",
-    "polski/script.py",
-    "chemia"
+    "polski/script.py~"
   ]
 }
