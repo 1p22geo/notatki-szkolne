@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e4ba25d367d38fe8",
+        "id": "6a28968a9f8134c1",
         "type": "tabs",
         "children": [
           {
-            "id": "165dfccd378a4c40",
+            "id": "69b9f7fbbe8d8fc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "niemiecki/7.1 Echte Freunde.md",
+                "file": "przedsięmbiorstwa/2024-05-16 zadanie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "niemiecki/7.1 Echte Freunde.md",
+                "file": "przedsięmbiorstwa/2024-05-16 zadanie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "niemiecki/7.1 Echte Freunde.md",
+                "file": "przedsięmbiorstwa/2024-05-16 zadanie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "niemiecki/7.1 Echte Freunde.md"
+                "file": "przedsięmbiorstwa/2024-05-16 zadanie.md"
               }
             }
           }
@@ -146,10 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "165dfccd378a4c40",
+  "active": "69b9f7fbbe8d8fc7",
   "lastOpenFiles": [
-    "niemiecki/6.2 Im Einkaufszentrum.md",
+    "fizyka/elektryczność i elektromagnetyzm/Budujemy lepszy prostownik (temat dodatkowy).md",
+    "fizyka/elektryczność i elektromagnetyzm/Powtórzenie wiadomości - elektryczność i elektromagnetyzm.md",
+    "biologia/Układ Nerwowy.md",
     "niemiecki/7.1 Echte Freunde.md",
+    "niemiecki/6.2 Im Einkaufszentrum.md",
     "polski/Romantyzm/Proces dojrzewania Kordiana w czasie podróży po Europie.md",
     "polski/Romantyzm/Prezentacja dotycząca malarstwa romantycznego.md",
     "polski/Romantyzm/Rola poety i poezji na podstawie \"Konrada Wallenroda\".md",
@@ -163,7 +166,6 @@
     "fizyka/elektryczność i elektromagnetyzm/Transformator.md",
     "polski/Romantyzm",
     "fizyka/elektryczność i elektromagnetyzm/Dioda i tranzystor.md",
-    "fizyka/elektryczność i elektromagnetyzm/Powtórzenie wiadomości - elektryczność i elektromagnetyzm.md",
     "fizyka/elektryczność i elektromagnetyzm/Siła w polu magnetycznym.md",
     "fizyka/elektryczność i elektromagnetyzm",
     "fizyka/elektryczność i elektromagnetyzm/Indukcja elektromagnetyczna.md",
@@ -178,8 +180,6 @@
     "polski/Romantyzm/Opis obrazu w odniesieniu do Kordiana.md",
     "biologia/gruczoły hormonalne.md",
     "polski/Romantyzm/Kordian - zadanie (Chyba).md",
-    "polski/Romantyzm/Polski poeta w grobie Agamemnona - ocena polskiego społeczeństwa w wierszu Słowackiego.md",
-    "niemiecki/6.1 Was hast du heute an.md",
     "biologia",
     "angielski",
     "polski/Grób Agamemnona tekst.md2",

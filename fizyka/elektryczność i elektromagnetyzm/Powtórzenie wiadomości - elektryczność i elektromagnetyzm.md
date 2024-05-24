@@ -5,6 +5,7 @@
 - [[Indukcja elektromagnetyczna]]
 - [[Siła w polu magnetycznym]]
 - [[Transformator]]
+- [[Budujemy lepszy prostownik (temat dodatkowy)]]
 
 ## Zadania
 ```
