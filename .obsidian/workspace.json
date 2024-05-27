@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6a28968a9f8134c1",
+        "id": "65e5a9a8048bd7cc",
         "type": "tabs",
         "children": [
           {
-            "id": "69b9f7fbbe8d8fc7",
+            "id": "f8409f849ce7f205",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "przedsięmbiorstwa/2024-05-16 zadanie.md",
+                "file": "polski/Romantyzm/Polski poeta w grobie Agamemnona - ocena polskiego społeczeństwa w wierszu Słowackiego.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "przedsięmbiorstwa/2024-05-16 zadanie.md",
+                "file": "polski/Romantyzm/Polski poeta w grobie Agamemnona - ocena polskiego społeczeństwa w wierszu Słowackiego.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "przedsięmbiorstwa/2024-05-16 zadanie.md",
+                "file": "polski/Romantyzm/Polski poeta w grobie Agamemnona - ocena polskiego społeczeństwa w wierszu Słowackiego.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "przedsięmbiorstwa/2024-05-16 zadanie.md"
+                "file": "polski/Romantyzm/Polski poeta w grobie Agamemnona - ocena polskiego społeczeństwa w wierszu Słowackiego.md"
               }
             }
           }
@@ -146,8 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69b9f7fbbe8d8fc7",
+  "active": "f8409f849ce7f205",
   "lastOpenFiles": [
+    "polski/Romantyzm/Grób Agamemnona.md",
+    "polski/Romantyzm/Przesłanie poety zawarte w wierszu \"Testament mój\" J. Słowackiego.md",
+    "chemia/Sole.md",
+    "chemia/Zmiany stężenia roztworów.md",
+    "chemia/Roztwory - powtórzenie.md",
+    "przedsięmbiorstwa/2024-05-16 zadanie.md",
     "fizyka/elektryczność i elektromagnetyzm/Budujemy lepszy prostownik (temat dodatkowy).md",
     "fizyka/elektryczność i elektromagnetyzm/Powtórzenie wiadomości - elektryczność i elektromagnetyzm.md",
     "biologia/Układ Nerwowy.md",
@@ -159,17 +165,14 @@
     "polski/Romantyzm/Konrad Walenrod - historia tragiczna.md",
     "polski/Romantyzm/Konrad Walenrod.md",
     "polski/Romantyzm/Kordian.md",
-    "przedsięmbiorstwa/2024-05-16 zadanie.md",
     "Untitled",
     "przedsięmbiorstwa",
-    "polski/Romantyzm/Grób Agamemnona.md",
     "fizyka/elektryczność i elektromagnetyzm/Transformator.md",
     "polski/Romantyzm",
     "fizyka/elektryczność i elektromagnetyzm/Dioda i tranzystor.md",
     "fizyka/elektryczność i elektromagnetyzm/Siła w polu magnetycznym.md",
     "fizyka/elektryczność i elektromagnetyzm",
     "fizyka/elektryczność i elektromagnetyzm/Indukcja elektromagnetyczna.md",
-    "chemia/Roztwory - powtórzenie.md",
     "angielski/English in use.md",
     "geografia/rypki.md",
     "angielski/Review 8.md",
@@ -177,9 +180,6 @@
     "polski/Romantyzm/Heroiczna klęska Kordiana.md",
     "geografia",
     "polski/Romantyzm/Kordian - bajki.md",
-    "polski/Romantyzm/Opis obrazu w odniesieniu do Kordiana.md",
-    "biologia/gruczoły hormonalne.md",
-    "polski/Romantyzm/Kordian - zadanie (Chyba).md",
     "biologia",
     "angielski",
     "polski/Grób Agamemnona tekst.md2",
