@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "niemiecki/7.2 Wie wichtig ist Aussehen.md",
+                "file": "niemiecki/7.3 - Pytania zależne.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "niemiecki/7.2 Wie wichtig ist Aussehen.md",
+                "file": "niemiecki/7.3 - Pytania zależne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "niemiecki/7.2 Wie wichtig ist Aussehen.md",
+                "file": "niemiecki/7.3 - Pytania zależne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "niemiecki/7.2 Wie wichtig ist Aussehen.md"
+                "file": "niemiecki/7.3 - Pytania zależne.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "7d266392f14bbb7c",
   "lastOpenFiles": [
-    "niemiecki/7.1 Echte Freunde.md",
     "niemiecki/7.2 Wie wichtig ist Aussehen.md",
+    "niemiecki/7.3 - Pytania zależne.md",
+    "niemiecki/7.1 Echte Freunde.md",
     "polski/Romantyzm/Grób Agamemnona.md",
     "polski/Romantyzm/Polski poeta w grobie Agamemnona - ocena polskiego społeczeństwa w wierszu Słowackiego.md",
     "polski/Romantyzm/Przesłanie poety zawarte w wierszu \"Testament mój\" J. Słowackiego.md",
@@ -177,7 +178,6 @@
     "fizyka/elektryczność i elektromagnetyzm/Indukcja elektromagnetyczna.md",
     "angielski/English in use.md",
     "geografia/rypki.md",
-    "angielski/Review 8.md",
     "fizyka/elektryczność i elektromagnetyzm/silnik.png",
     "geografia",
     "biologia",
