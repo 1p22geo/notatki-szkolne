@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "65e5a9a8048bd7cc",
+        "id": "3bdaaa9d371b8a8d",
         "type": "tabs",
         "children": [
           {
-            "id": "f8409f849ce7f205",
+            "id": "7d266392f14bbb7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "polski/Romantyzm/Polski poeta w grobie Agamemnona - ocena polskiego społeczeństwa w wierszu Słowackiego.md",
+                "file": "niemiecki/7.2 Wie wichtig ist Aussehen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "polski/Romantyzm/Polski poeta w grobie Agamemnona - ocena polskiego społeczeństwa w wierszu Słowackiego.md",
+                "file": "niemiecki/7.2 Wie wichtig ist Aussehen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "polski/Romantyzm/Polski poeta w grobie Agamemnona - ocena polskiego społeczeństwa w wierszu Słowackiego.md",
+                "file": "niemiecki/7.2 Wie wichtig ist Aussehen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "polski/Romantyzm/Polski poeta w grobie Agamemnona - ocena polskiego społeczeństwa w wierszu Słowackiego.md"
+                "file": "niemiecki/7.2 Wie wichtig ist Aussehen.md"
               }
             }
           }
@@ -146,9 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8409f849ce7f205",
+  "active": "7d266392f14bbb7c",
   "lastOpenFiles": [
+    "niemiecki/7.1 Echte Freunde.md",
+    "niemiecki/7.2 Wie wichtig ist Aussehen.md",
     "polski/Romantyzm/Grób Agamemnona.md",
+    "polski/Romantyzm/Polski poeta w grobie Agamemnona - ocena polskiego społeczeństwa w wierszu Słowackiego.md",
     "polski/Romantyzm/Przesłanie poety zawarte w wierszu \"Testament mój\" J. Słowackiego.md",
     "chemia/Sole.md",
     "chemia/Zmiany stężenia roztworów.md",
@@ -157,7 +160,6 @@
     "fizyka/elektryczność i elektromagnetyzm/Budujemy lepszy prostownik (temat dodatkowy).md",
     "fizyka/elektryczność i elektromagnetyzm/Powtórzenie wiadomości - elektryczność i elektromagnetyzm.md",
     "biologia/Układ Nerwowy.md",
-    "niemiecki/7.1 Echte Freunde.md",
     "niemiecki/6.2 Im Einkaufszentrum.md",
     "polski/Romantyzm/Proces dojrzewania Kordiana w czasie podróży po Europie.md",
     "polski/Romantyzm/Prezentacja dotycząca malarstwa romantycznego.md",
@@ -177,9 +179,7 @@
     "geografia/rypki.md",
     "angielski/Review 8.md",
     "fizyka/elektryczność i elektromagnetyzm/silnik.png",
-    "polski/Romantyzm/Heroiczna klęska Kordiana.md",
     "geografia",
-    "polski/Romantyzm/Kordian - bajki.md",
     "biologia",
     "angielski",
     "polski/Grób Agamemnona tekst.md2",
