@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3bdaaa9d371b8a8d",
+        "id": "fdec738dbd9256a1",
         "type": "tabs",
         "children": [
           {
-            "id": "7d266392f14bbb7c",
+            "id": "20934b541869e1ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "niemiecki/7.3 - Pytania zależne.md",
+                "file": "polski/Romantyzm/Hołd złożony generałowi Józefowi Bemowi w wierszu Norwida.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "niemiecki/7.3 - Pytania zależne.md",
+                "file": "polski/Romantyzm/Hołd złożony generałowi Józefowi Bemowi w wierszu Norwida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "niemiecki/7.3 - Pytania zależne.md",
+                "file": "polski/Romantyzm/Hołd złożony generałowi Józefowi Bemowi w wierszu Norwida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "niemiecki/7.3 - Pytania zależne.md"
+                "file": "polski/Romantyzm/Hołd złożony generałowi Józefowi Bemowi w wierszu Norwida.md"
               }
             }
           }
@@ -146,21 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d266392f14bbb7c",
+  "active": "20934b541869e1ac",
   "lastOpenFiles": [
-    "niemiecki/7.2 Wie wichtig ist Aussehen.md",
+    "polski/Romantyzm/Kordian - bajki.md",
+    "polski/Romantyzm/Kordian - zadanie (Chyba).md",
+    "polski/Romantyzm/Hołd złożony generałowi Józefowi Bemowi w wierszu Norwida.md",
+    "polski/Romantyzm/Kult ludzi wielkich w poezji Cypriana Kamila Norwida.md",
+    "polski/Romantyzm/Przesłanie poety zawarte w wierszu \"Testament mój\" J. Słowackiego.md",
+    "biologia/Układ Nerwowy.md",
     "niemiecki/7.3 - Pytania zależne.md",
+    "niemiecki/7.2 Wie wichtig ist Aussehen.md",
     "niemiecki/7.1 Echte Freunde.md",
     "polski/Romantyzm/Grób Agamemnona.md",
     "polski/Romantyzm/Polski poeta w grobie Agamemnona - ocena polskiego społeczeństwa w wierszu Słowackiego.md",
-    "polski/Romantyzm/Przesłanie poety zawarte w wierszu \"Testament mój\" J. Słowackiego.md",
     "chemia/Sole.md",
     "chemia/Zmiany stężenia roztworów.md",
     "chemia/Roztwory - powtórzenie.md",
     "przedsięmbiorstwa/2024-05-16 zadanie.md",
     "fizyka/elektryczność i elektromagnetyzm/Budujemy lepszy prostownik (temat dodatkowy).md",
     "fizyka/elektryczność i elektromagnetyzm/Powtórzenie wiadomości - elektryczność i elektromagnetyzm.md",
-    "biologia/Układ Nerwowy.md",
     "niemiecki/6.2 Im Einkaufszentrum.md",
     "polski/Romantyzm/Proces dojrzewania Kordiana w czasie podróży po Europie.md",
     "polski/Romantyzm/Prezentacja dotycząca malarstwa romantycznego.md",
@@ -173,11 +177,7 @@
     "fizyka/elektryczność i elektromagnetyzm/Transformator.md",
     "polski/Romantyzm",
     "fizyka/elektryczność i elektromagnetyzm/Dioda i tranzystor.md",
-    "fizyka/elektryczność i elektromagnetyzm/Siła w polu magnetycznym.md",
     "fizyka/elektryczność i elektromagnetyzm",
-    "fizyka/elektryczność i elektromagnetyzm/Indukcja elektromagnetyczna.md",
-    "angielski/English in use.md",
-    "geografia/rypki.md",
     "fizyka/elektryczność i elektromagnetyzm/silnik.png",
     "geografia",
     "biologia",

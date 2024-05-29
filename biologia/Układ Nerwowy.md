@@ -1,5 +1,11 @@
 #biologia 
 
+
+- hyprpicker
+- gtk config
+- ImageMagick
+- 
+
 Neuron - podstawowa jednostka czynnościowe i strukturalna układu nerwowego
 
 ```
