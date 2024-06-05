@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "polski/Romantyzm/Kult ludzi wielkich w poezji Cypriana Kamila Norwida.md",
+                "file": "polski/pozytywizm/Sytuacja w Polsce po klęsce powstania styczniowego - hasła polskich pozytywistów.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "polski/Romantyzm/Kult ludzi wielkich w poezji Cypriana Kamila Norwida.md",
+                "file": "polski/pozytywizm/Sytuacja w Polsce po klęsce powstania styczniowego - hasła polskich pozytywistów.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "polski/Romantyzm/Kult ludzi wielkich w poezji Cypriana Kamila Norwida.md",
+                "file": "polski/pozytywizm/Sytuacja w Polsce po klęsce powstania styczniowego - hasła polskich pozytywistów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "polski/Romantyzm/Kult ludzi wielkich w poezji Cypriana Kamila Norwida.md"
+                "file": "polski/pozytywizm/Sytuacja w Polsce po klęsce powstania styczniowego - hasła polskich pozytywistów.md"
               }
             }
           }
@@ -148,13 +148,16 @@
   },
   "active": "20934b541869e1ac",
   "lastOpenFiles": [
+    "polski/pozytywizm/Wprowadzenie do europejskiego pozytywizmu.md",
+    "polski/pozytywizm/Sytuacja w Polsce po klęsce powstania styczniowego - hasła polskich pozytywistów.md",
+    "polski/Romantyzm/Kult ludzi wielkich w poezji Cypriana Kamila Norwida.md",
+    "polski/pozytywizm",
     "fizyka/elektryczność i elektromagnetyzm/Magnetyzm i materia.md",
     "gendr rendr.md",
     "fizyka/elektryczność i elektromagnetyzm/Dioda i tranzystor.md",
     "polski/Romantyzm/Hołd złożony generałowi Józefowi Bemowi w wierszu Norwida.md",
     "polski/Romantyzm/Kordian - bajki.md",
     "polski/Romantyzm/Kordian - zadanie (Chyba).md",
-    "polski/Romantyzm/Kult ludzi wielkich w poezji Cypriana Kamila Norwida.md",
     "polski/Romantyzm/Przesłanie poety zawarte w wierszu \"Testament mój\" J. Słowackiego.md",
     "biologia/Układ Nerwowy.md",
     "niemiecki/7.3 - Pytania zależne.md",
@@ -172,8 +175,6 @@
     "polski/Romantyzm/Proces dojrzewania Kordiana w czasie podróży po Europie.md",
     "polski/Romantyzm/Prezentacja dotycząca malarstwa romantycznego.md",
     "polski/Romantyzm/Rola poety i poezji na podstawie \"Konrada Wallenroda\".md",
-    "polski/Romantyzm/Konrad Walenrod - historia tragiczna.md",
-    "polski/Romantyzm/Konrad Walenrod.md",
     "Untitled",
     "przedsięmbiorstwa",
     "polski/Romantyzm",
@@ -183,7 +184,6 @@
     "biologia",
     "angielski",
     "polski/Grób Agamemnona tekst.md2",
-    "polski/Grób Agamemnona tekst.md~",
-    "polski/script.py~"
+    "polski/Grób Agamemnona tekst.md~"
   ]
 }
