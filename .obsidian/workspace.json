@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9238da48fe61be74",
+        "id": "b501212446e61875",
         "type": "tabs",
         "children": [
           {
-            "id": "7583af529f76b91a",
+            "id": "7ecd397489526836",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chemia/Hydraty.md",
+                "file": "niemiecki/7.4 Niemand ist ohne Fehler.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fe0cf1c57896cb19",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chemia/Hydraty.md",
+                "file": "niemiecki/7.4 Niemand ist ohne Fehler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chemia/Hydraty.md",
+                "file": "niemiecki/7.4 Niemand ist ohne Fehler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chemia/Hydraty.md"
+                "file": "niemiecki/7.4 Niemand ist ohne Fehler.md"
               }
             }
           }
@@ -146,10 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7583af529f76b91a",
+  "active": "7ecd397489526836",
   "lastOpenFiles": [
-    "polski/pozytywizm/Adam Asnyk - poeta czasów niepoetyckich.md",
+    "niemiecki/7.4 Niemand ist ohne Fehler.md",
     "chemia/Hydraty.md",
+    "polski/pozytywizm/Adam Asnyk - poeta czasów niepoetyckich.md",
     "polski/pozytywizm/Sytuacja w Polsce po klęsce powstania styczniowego - hasła polskich pozytywistów.md",
     "polski/pozytywizm/Wprowadzenie do europejskiego pozytywizmu.md",
     "fizyka/elektryczność i elektromagnetyzm/Szósty zmysł - magnetyczny - analiza tekstu popularnonaukowego.md",
@@ -174,7 +176,6 @@
     "przedsięmbiorstwa/2024-05-16 zadanie.md",
     "fizyka/elektryczność i elektromagnetyzm/Budujemy lepszy prostownik (temat dodatkowy).md",
     "fizyka/elektryczność i elektromagnetyzm/Powtórzenie wiadomości - elektryczność i elektromagnetyzm.md",
-    "niemiecki/6.2 Im Einkaufszentrum.md",
     "Untitled",
     "przedsięmbiorstwa",
     "polski/Romantyzm",
