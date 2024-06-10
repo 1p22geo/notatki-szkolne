@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "polski/pozytywizm/Adam Asnyk - poeta czasów niepoetyckich.md",
+                "file": "chemia/Hydraty.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fe0cf1c57896cb19",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "polski/pozytywizm/Adam Asnyk - poeta czasów niepoetyckich.md",
+                "file": "chemia/Hydraty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "polski/pozytywizm/Adam Asnyk - poeta czasów niepoetyckich.md",
+                "file": "chemia/Hydraty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "polski/pozytywizm/Adam Asnyk - poeta czasów niepoetyckich.md"
+                "file": "chemia/Hydraty.md"
               }
             }
           }
@@ -149,8 +148,9 @@
   },
   "active": "7583af529f76b91a",
   "lastOpenFiles": [
-    "polski/pozytywizm/Sytuacja w Polsce po klęsce powstania styczniowego - hasła polskich pozytywistów.md",
     "polski/pozytywizm/Adam Asnyk - poeta czasów niepoetyckich.md",
+    "chemia/Hydraty.md",
+    "polski/pozytywizm/Sytuacja w Polsce po klęsce powstania styczniowego - hasła polskich pozytywistów.md",
     "polski/pozytywizm/Wprowadzenie do europejskiego pozytywizmu.md",
     "fizyka/elektryczność i elektromagnetyzm/Szósty zmysł - magnetyczny - analiza tekstu popularnonaukowego.md",
     "polski/Romantyzm/Kult ludzi wielkich w poezji Cypriana Kamila Norwida.md",
@@ -175,7 +175,6 @@
     "fizyka/elektryczność i elektromagnetyzm/Budujemy lepszy prostownik (temat dodatkowy).md",
     "fizyka/elektryczność i elektromagnetyzm/Powtórzenie wiadomości - elektryczność i elektromagnetyzm.md",
     "niemiecki/6.2 Im Einkaufszentrum.md",
-    "polski/Romantyzm/Proces dojrzewania Kordiana w czasie podróży po Europie.md",
     "Untitled",
     "przedsięmbiorstwa",
     "polski/Romantyzm",
