@@ -1,0 +1,1 @@
+![[standard_model.png]]Model standardowy mechaniki kwantowej (2024)
