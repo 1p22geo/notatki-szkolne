@@ -1,3 +1,4 @@
+#fizyka 
 Cząsteczki w ciele stałym drgają wokół położeń równowagi, natomiast w cieczy i w gazie poruszają się po całej objętości naczynia.
 
 W ciele stałym i w cieczy odległości między cząsteczkami są niewielkie. W gazie odległości są duże.
