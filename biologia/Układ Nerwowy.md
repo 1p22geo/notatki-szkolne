@@ -1,11 +1,6 @@
 #biologia 
 
 
-- hyprpicker
-- gtk config
-- ImageMagick
-- 
-
 Neuron - podstawowa jednostka czynnościowe i strukturalna układu nerwowego
 
 ```
@@ -51,3 +46,14 @@ Tkanka nerwowa występuje w dwóch postaciach:
 - istota biała - wypustki komórkowe
 
 W rdzeniu kręgowym istota szara jest w środku, a w mózgu - na zewnątrz.
+
+```bone
+      \\                  ||
+        \\ \__________ ///
+          /   ------ \
+         |   //   \\<-|+----------istota szara
+         //____/\___\\
+        //      |      \\
+               |      ||
+            istota biała
+```

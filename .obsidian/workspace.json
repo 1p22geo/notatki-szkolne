@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "historia/Przypomnienie informacji z poprzednich lat.md",
+                "file": "biologia/Układ Nerwowy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "historia/Przypomnienie informacji z poprzednich lat.md",
+                "file": "biologia/Układ Nerwowy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "historia/Przypomnienie informacji z poprzednich lat.md",
+                "file": "biologia/Układ Nerwowy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "historia/Przypomnienie informacji z poprzednich lat.md"
+                "file": "biologia/Układ Nerwowy.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "876496857dc5358b",
   "lastOpenFiles": [
-    "niemiecki/3/karten arbeiten 01.md",
+    "biologia/gruczoły hormonalne.md",
+    "biologia/Układ Nerwowy.md",
+    "biologia/Przedmiotowy system oceniania i wymagania edukacyjne.md",
     "historia/Przypomnienie informacji z poprzednich lat.md",
+    "biologia/pso.md~",
+    "niemiecki/3/karten arbeiten 01.md",
     "historia",
     "chemia/Zapoznanie z programem nauczania i wymagania edukacyjne i kryteria oceniania blablabla organizacja 2024.md",
     "polski/Romantyzm/Kordian - bajki.md",
@@ -175,16 +179,12 @@
     "niemiecki/3",
     "niemiecki/2",
     "fizyka/termodynamika",
-    "fizyka/elektryczność i elektromagnetyzm/Cząstki elementarne - klocki lego naszego świata.md",
     "fizyka/elektryczność i elektromagnetyzm/standard_model.png",
-    "chemia/Hydraty.md",
-    "polski/pozytywizm/Sytuacja w Polsce po klęsce powstania styczniowego - hasła polskich pozytywistów.md",
     "polski/pozytywizm",
     "przedsięmbiorstwa",
     "polski/Romantyzm",
     "fizyka/elektryczność i elektromagnetyzm",
     "fizyka/elektryczność i elektromagnetyzm/silnik.png",
-    "geografia",
-    "biologia"
+    "geografia"
   ]
 }
