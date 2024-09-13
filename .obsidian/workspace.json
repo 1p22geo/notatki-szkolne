@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "84dc5128468dd052",
+        "id": "261b1f55f8b4c542",
         "type": "tabs",
         "children": [
           {
-            "id": "e90d7f5131aca4f0",
+            "id": "1dead80736597bec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "historia/Zjednoczenie Włoch i Niemiec.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fe0cf1c57896cb19",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "historia/Zjednoczenie Włoch i Niemiec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "historia/Zjednoczenie Włoch i Niemiec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "historia/Zjednoczenie Włoch i Niemiec.md"
+              }
             }
           }
         ]
@@ -138,14 +147,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "478243e3eb5e0ce1",
+  "active": "1dead80736597bec",
   "lastOpenFiles": [
+    "historia/Przypomnienie informacji z poprzednich lat.md",
+    "historia/Zjednoczenie Włoch i Niemiec.md",
+    "misc/informatyka karten arbajten.md",
+    "niemiecki/3/Wo warst du im Sommer?.md",
+    "misc",
+    "niemiecki/3/karten arbeiten 01.md",
     "biologia/Układ Nerwowy.md",
     "biologia/gruczoły hormonalne.md",
     "biologia/Przedmiotowy system oceniania i wymagania edukacyjne.md",
-    "historia/Przypomnienie informacji z poprzednich lat.md",
     "biologia/pso.md~",
-    "niemiecki/3/karten arbeiten 01.md",
     "historia",
     "chemia/Zapoznanie z programem nauczania i wymagania edukacyjne i kryteria oceniania blablabla organizacja 2024.md",
     "polski/Romantyzm/Kordian - bajki.md",
@@ -165,9 +178,6 @@
     "polski/pozytywizm/Gloria Victis.md",
     "polski/pozytywizm/Adam Asnyk - poeta czasów niepoetyckich.md",
     "angielski/Vocabulary - TV shows.md",
-    "angielski/Review 8.md",
-    "fizyka/termodynamika/Cząstki i energia.md",
-    "angielski/English in use.md",
     "niemiecki/3",
     "niemiecki/2",
     "fizyka/termodynamika",
@@ -176,7 +186,6 @@
     "przedsięmbiorstwa",
     "polski/Romantyzm",
     "fizyka/elektryczność i elektromagnetyzm",
-    "fizyka/elektryczność i elektromagnetyzm/silnik.png",
-    "geografia"
+    "fizyka/elektryczność i elektromagnetyzm/silnik.png"
   ]
 }
