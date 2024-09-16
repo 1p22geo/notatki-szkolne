@@ -13,4 +13,15 @@ Władcą Polski zostaje Łokietek. Brandenburczycy najeżdżają Pomorze Gdańs
 
 1410 - bitwa pod Grunwaldem, pierwsza przegrana Krzyżaków. Polska odzyskuje ujście Wisły razem z Gdańskiem.
 1517 - wystąpienie Marcina Lutra, Zygmunt I Stary jest władcą Polski. Wojna między Polską a Albrechtem Hochenzollernem, władcą Krzyżaków.
-1525, Kraków - Hołd Pruski, 
+1525, Kraków - Hołd Pruski, sekularyzacja Prus (luteranie nie akceptują zakonów). Prusy Książęce.
+
+XVII Wiek. Wojny z Szwecją (Inflanty, ujście wisły, Zygmunt III do tronu szwedzkiego). Wojny z Rosją, Turcją. Potop Szwedzki. Dochodzi do umowy - Prusy Książęce przestają być lennem Polski.
+
+Fryderyk zostaje władcą Prus. Demokracja szlachecka w Polsce.
+
+Rozbiory Polski
+- osłabienie państwa
+- przywileje szlacheckie
+- artykuły hendrykowskie
+- Parlament w Polsce
+
