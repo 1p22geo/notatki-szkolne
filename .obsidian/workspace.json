@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f7867d2c9375d848",
+        "id": "cb3866b65c63ab5b",
         "type": "tabs",
         "children": [
           {
-            "id": "fcdf22b5a485a6aa",
+            "id": "e8ee210551167ebe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "angielski zawodowy/Computer Engineering.md",
+                "file": "angielski/Present tenses - revision.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "angielski zawodowy/Computer Engineering.md",
+                "file": "angielski/Present tenses - revision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "angielski zawodowy/Computer Engineering.md",
+                "file": "angielski/Present tenses - revision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "angielski zawodowy/Computer Engineering.md"
+                "file": "angielski/Present tenses - revision.md"
               }
             }
           }
@@ -146,10 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fcdf22b5a485a6aa",
+  "active": "e8ee210551167ebe",
   "lastOpenFiles": [
-    "fizyka/termodynamika/Ciepło właściwe.md",
+    "angielski/Vocabulary - TV shows.md",
+    "angielski/Present tenses - revision.md",
+    "angielski/English in use.md",
+    "angielski/Review 8.md",
     "angielski zawodowy/Computer Engineering.md",
+    "fizyka/termodynamika/Ciepło właściwe.md",
     "angielski zawodowy",
     "fizyka/termodynamika/Rozszerzalność cieplna.md",
     "fizyka/Untitled.md",
@@ -176,10 +180,6 @@
     "polski/Romantyzm/Heroiczna klęska Kordiana.md",
     "polski/Romantyzm/Kordian.md",
     "polski/Romantyzm/Konrad Walenrod - historia tragiczna.md",
-    "polski/Romantyzm/Konrad Walenrod.md",
-    "polski/pozytywizm/Wprowadzenie do europejskiego pozytywizmu.md",
-    "polski/pozytywizm/Wymagania edukacyjne - klasa III.md",
-    "niemiecki/2/7.4 Niemand ist ohne Fehler.md",
     "niemiecki/3",
     "niemiecki/2",
     "fizyka/termodynamika",
