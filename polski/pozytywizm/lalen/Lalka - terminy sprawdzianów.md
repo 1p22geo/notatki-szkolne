@@ -1,5 +1,7 @@
 #polski 
 
+[[lalka.pdf]]
+
 2024-09-19 
 2024-09-21 - zebranie Erasmus
 2024-09-23 - sprawdzian Lalka

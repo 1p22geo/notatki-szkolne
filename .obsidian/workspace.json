@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "64426d15ddf3e11e",
+        "id": "f7867d2c9375d848",
         "type": "tabs",
         "children": [
           {
-            "id": "7196082e58ca34b4",
+            "id": "fcdf22b5a485a6aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "polski/pozytywizm/lalen/Lalka - terminy sprawdzianów.md",
+                "file": "fizyka/termodynamika/Ciepło właściwe.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "polski/pozytywizm/lalen/Lalka - terminy sprawdzianów.md",
+                "file": "fizyka/termodynamika/Ciepło właściwe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "polski/pozytywizm/lalen/Lalka - terminy sprawdzianów.md",
+                "file": "fizyka/termodynamika/Ciepło właściwe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "polski/pozytywizm/lalen/Lalka - terminy sprawdzianów.md"
+                "file": "fizyka/termodynamika/Ciepło właściwe.md"
               }
             }
           }
@@ -146,8 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7196082e58ca34b4",
+  "active": "fcdf22b5a485a6aa",
   "lastOpenFiles": [
+    "fizyka/termodynamika/Rozszerzalność cieplna.md",
+    "fizyka/termodynamika/Ciepło właściwe.md",
+    "fizyka/Untitled.md",
+    "polski/pozytywizm/lalen/lalka.pdf",
     "polski/pozytywizm/lalen/Lalka - terminy sprawdzianów.md",
     "polski/pozytywizm/lalen",
     "geografia/rypki.md",
@@ -175,16 +179,12 @@
     "polski/pozytywizm/Wymagania edukacyjne - klasa III.md",
     "niemiecki/2/7.4 Niemand ist ohne Fehler.md",
     "niemiecki/2/7.3 - Pytania zależne.md",
-    "niemiecki/3/Zapoznanie z wymaganiami edukacyjnymi. Lekcja organizacyjna..md",
-    "polski/pozytywizm/Hołd złożony bezimiennym bohaterom w utworze Gloria Victis.md",
-    "polski/pozytywizm/Gloria Victis.md",
     "niemiecki/3",
     "niemiecki/2",
     "fizyka/termodynamika",
     "fizyka/elektryczność i elektromagnetyzm/standard_model.png",
     "polski/pozytywizm",
     "przedsięmbiorstwa",
-    "polski/Romantyzm",
     "fizyka/elektryczność i elektromagnetyzm/silnik.png"
   ]
 }
