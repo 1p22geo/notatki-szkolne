@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fizyka/termodynamika/Ciepło właściwe.md",
+                "file": "angielski zawodowy/Computer Engineering.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fizyka/termodynamika/Ciepło właściwe.md",
+                "file": "angielski zawodowy/Computer Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fizyka/termodynamika/Ciepło właściwe.md",
+                "file": "angielski zawodowy/Computer Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fizyka/termodynamika/Ciepło właściwe.md"
+                "file": "angielski zawodowy/Computer Engineering.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "fcdf22b5a485a6aa",
   "lastOpenFiles": [
-    "fizyka/termodynamika/Rozszerzalność cieplna.md",
     "fizyka/termodynamika/Ciepło właściwe.md",
+    "angielski zawodowy/Computer Engineering.md",
+    "angielski zawodowy",
+    "fizyka/termodynamika/Rozszerzalność cieplna.md",
     "fizyka/Untitled.md",
     "polski/pozytywizm/lalen/lalka.pdf",
     "polski/pozytywizm/lalen/Lalka - terminy sprawdzianów.md",
@@ -178,13 +180,11 @@
     "polski/pozytywizm/Wprowadzenie do europejskiego pozytywizmu.md",
     "polski/pozytywizm/Wymagania edukacyjne - klasa III.md",
     "niemiecki/2/7.4 Niemand ist ohne Fehler.md",
-    "niemiecki/2/7.3 - Pytania zależne.md",
     "niemiecki/3",
     "niemiecki/2",
     "fizyka/termodynamika",
     "fizyka/elektryczność i elektromagnetyzm/standard_model.png",
     "polski/pozytywizm",
-    "przedsięmbiorstwa",
     "fizyka/elektryczność i elektromagnetyzm/silnik.png"
   ]
 }
