@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cb3866b65c63ab5b",
+        "id": "18d79e90b7984339",
         "type": "tabs",
         "children": [
           {
-            "id": "e8ee210551167ebe",
+            "id": "a6cdf2b3996edfee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "angielski/Present tenses - revision.md",
+                "file": "strefa wolna od BHP/Podstawowe pojęcia z zakresu BHP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "angielski/Present tenses - revision.md",
+                "file": "strefa wolna od BHP/Podstawowe pojęcia z zakresu BHP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "angielski/Present tenses - revision.md",
+                "file": "strefa wolna od BHP/Podstawowe pojęcia z zakresu BHP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "angielski/Present tenses - revision.md"
+                "file": "strefa wolna od BHP/Podstawowe pojęcia z zakresu BHP.md"
               }
             }
           }
@@ -146,10 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8ee210551167ebe",
+  "active": "a6cdf2b3996edfee",
   "lastOpenFiles": [
-    "angielski/Vocabulary - TV shows.md",
+    "strefa wolna od BHP/Istota BHP.md",
+    "strefa wolna od BHP/Podstawowe pojęcia z zakresu BHP.md",
+    "strefa wolna od BHP",
     "angielski/Present tenses - revision.md",
+    "angielski/Vocabulary - TV shows.md",
     "angielski/English in use.md",
     "angielski/Review 8.md",
     "angielski zawodowy/Computer Engineering.md",
@@ -178,13 +181,10 @@
     "polski/Romantyzm/Kult ludzi wielkich w poezji Cypriana Kamila Norwida.md",
     "polski/Romantyzm/Proces dojrzewania Kordiana w czasie podróży po Europie.md",
     "polski/Romantyzm/Heroiczna klęska Kordiana.md",
-    "polski/Romantyzm/Kordian.md",
-    "polski/Romantyzm/Konrad Walenrod - historia tragiczna.md",
     "niemiecki/3",
     "niemiecki/2",
     "fizyka/termodynamika",
     "fizyka/elektryczność i elektromagnetyzm/standard_model.png",
-    "polski/pozytywizm",
     "fizyka/elektryczność i elektromagnetyzm/silnik.png"
   ]
 }
