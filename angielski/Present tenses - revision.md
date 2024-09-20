@@ -44,3 +44,18 @@ I have watched every single one of them
 
 Can Teresa and Tom come with us?
 I have just heard she caught some stomach bug.
+
+## 5b.
+
+I am taking part
+I have read about a lot
+I think we really aknow
+The whole town gathers
+We don't use
+The battle has been staged
+have finally participated as well
+we have already prepared
+has not finished setting up
+it has been great fun
+i am getting nervous
+have never perfonmed in front of

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "18d79e90b7984339",
+        "id": "29f207c355504456",
         "type": "tabs",
         "children": [
           {
-            "id": "a6cdf2b3996edfee",
+            "id": "1cbae79202126d5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "strefa wolna od BHP/Podstawowe pojęcia z zakresu BHP.md",
+                "file": "historia/Zjednoczenie Włoch i Niemiec.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "strefa wolna od BHP/Podstawowe pojęcia z zakresu BHP.md",
+                "file": "historia/Zjednoczenie Włoch i Niemiec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "strefa wolna od BHP/Podstawowe pojęcia z zakresu BHP.md",
+                "file": "historia/Zjednoczenie Włoch i Niemiec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "strefa wolna od BHP/Podstawowe pojęcia z zakresu BHP.md"
+                "file": "historia/Zjednoczenie Włoch i Niemiec.md"
               }
             }
           }
@@ -146,12 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6cdf2b3996edfee",
+  "active": "1cbae79202126d5d",
   "lastOpenFiles": [
-    "strefa wolna od BHP/Istota BHP.md",
-    "strefa wolna od BHP/Podstawowe pojęcia z zakresu BHP.md",
-    "strefa wolna od BHP",
+    "historia/Przypomnienie informacji z poprzednich lat.md",
+    "historia/Zjednoczenie Włoch i Niemiec.md",
+    "chemia/Stopień dysocjacji roztworu.md",
+    "niemiecki/3/Hast du im Ferien gejoggt.md",
+    "chemia/Zapoznanie z programem nauczania i wymagania edukacyjne i kryteria oceniania blablabla organizacja 2024.md",
+    "biologia/Układ Nerwowy.md",
+    "polski/pozytywizm/lalen/lalka.pdf",
+    "polski/pozytywizm/Wymagania edukacyjne - klasa III.md",
+    "polski/pozytywizm/lalen/Lalka - terminy sprawdzianów.md",
+    "hit/Obywatele i naród.md",
+    "angielski/1. Listening and vocabulary - listening for gist and detail.md",
+    "hit",
     "angielski/Present tenses - revision.md",
+    "strefa wolna od BHP/Podstawowe pojęcia z zakresu BHP.md",
+    "strefa wolna od BHP/Istota BHP.md",
+    "strefa wolna od BHP",
     "angielski/Vocabulary - TV shows.md",
     "angielski/English in use.md",
     "angielski/Review 8.md",
@@ -160,30 +172,18 @@
     "angielski zawodowy",
     "fizyka/termodynamika/Rozszerzalność cieplna.md",
     "fizyka/Untitled.md",
-    "polski/pozytywizm/lalen/lalka.pdf",
-    "polski/pozytywizm/lalen/Lalka - terminy sprawdzianów.md",
     "polski/pozytywizm/lalen",
     "geografia/rypki.md",
-    "historia/Zjednoczenie Włoch i Niemiec.md",
-    "historia/Przypomnienie informacji z poprzednich lat.md",
     "misc/informatyka karten arbajten.md",
     "niemiecki/3/Wo warst du im Sommer?.md",
     "misc",
     "niemiecki/3/karten arbeiten 01.md",
-    "biologia/Układ Nerwowy.md",
     "biologia/gruczoły hormonalne.md",
     "biologia/Przedmiotowy system oceniania i wymagania edukacyjne.md",
     "biologia/pso.md~",
     "historia",
-    "chemia/Zapoznanie z programem nauczania i wymagania edukacyjne i kryteria oceniania blablabla organizacja 2024.md",
-    "polski/Romantyzm/Kordian - bajki.md",
-    "polski/Romantyzm/Przesłanie poety zawarte w wierszu \"Testament mój\" J. Słowackiego.md",
-    "polski/Romantyzm/Kult ludzi wielkich w poezji Cypriana Kamila Norwida.md",
-    "polski/Romantyzm/Proces dojrzewania Kordiana w czasie podróży po Europie.md",
-    "polski/Romantyzm/Heroiczna klęska Kordiana.md",
     "niemiecki/3",
     "niemiecki/2",
-    "fizyka/termodynamika",
     "fizyka/elektryczność i elektromagnetyzm/standard_model.png",
     "fizyka/elektryczność i elektromagnetyzm/silnik.png"
   ]

@@ -25,3 +25,26 @@ Rozbiory Polski
 - artykuły hendrykowskie
 - Parlament w Polsce
 
+Od 19 Wieku Włochy dążyły do zjednoczenia. Premier rządu w Sardynii, Camillo Cavour proponował scalenie północhych Włoch pod patronatem Wiktora Emanuela II. W walce o zjednoczenie przewodził Giuseppe Garibaldi.
+
+W 1859 Wiktor Emanuel II odzyskał znaczącą część północhych Włoch - Lombardię. Wywołał rewolucję w południowych Włoszech i w porozumieniu z królem Sardynii zjednoczył kraj jako monarchię.
+
+
+Państwa niemieckie od 19 w. również miały tendencje do zjednoczenia. Rywalizowały tam Austria oraz Prusy. Konkurowały wówczas idee - Małych Niemiec (bez Austrii) oraz Wielkich Niemiec (wraz z Austrią). W 1861 na pruskum tronie zasiadł Wilhelm I Hochenzollern, a rok później kanclerzem zostaje Otto Von Biscmark, który zjednoczył Niemcy "krwią i żelazem". W 1864 odebrał wspólnie z Austrią Danii księstwa Szlezwik i Holstein, a w 1866 pokonał samych Austriaków, pozbawiając ich wpływów.
+
+W 1867 osłabione cesarstwo Austrii musiało połączyć się z Węgrami, by stworzyć monarchię Austro-węgierską.
+
+W 1867 został również utworzony Związek Północnoniemiecki, któremu przewodziły Prusy. W 1970 pokonali Francję i 18 Stycznia 1871 ogłoszono powstanie II Rzeszy pod berłem Wilhelma I.
+
+- 1815 - kongres Wiedeński 
+	- utworzenie Związku Niemieckiego
+- 1848 - Wiosna Ludów
+	- próba oddolnego zjednoczenia Niemiec
+- 1864 - wojna o Schlezwick i Holstein
+	- Prusy i Austria pokonały Danię
+- 1866 - wojna prusko-austriacka
+	- Austria ponosi klęskę i rezygnuje z rywalizacji
+	- rozpad Związku Niemieckiego
+- 1870 - wojna prusko-francuska
+	- Francja, największy przeciwnik zjednoczenia Niemiec zostaje pokonana przez Prusy
+- 1871 - zjednoczenie Niemiec
