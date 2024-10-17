@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e0ec7517f7fbd89d",
+        "id": "78b592bb00365c02",
         "type": "tabs",
         "children": [
           {
-            "id": "f1da917b34ab1f48",
+            "id": "931253fb2a476091",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hit/Nacjonalizm a patriotyzm.md",
+                "file": "niemiecki/3/Was ist dein Lieblingssport?.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hit/Nacjonalizm a patriotyzm.md",
+                "file": "niemiecki/3/Was ist dein Lieblingssport?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hit/Nacjonalizm a patriotyzm.md",
+                "file": "niemiecki/3/Was ist dein Lieblingssport?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hit/Nacjonalizm a patriotyzm.md"
+                "file": "niemiecki/3/Was ist dein Lieblingssport?.md"
               }
             }
           }
@@ -146,44 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1da917b34ab1f48",
+  "active": "931253fb2a476091",
   "lastOpenFiles": [
+    "niemiecki/3/So wohne ich.md",
+    "niemiecki/3/Was ist dein Lieblingssport?.md",
+    "polski/pozytywizm/lalka/Trzy pokolenia idealistów w \"Lalce\".md",
+    "niemiecki/3/Wo wohnst du?.md",
+    "niemiecki/3/Mein Zimmer ist cool.md",
+    "niemiecki/3/1.2 Hast du in den Ferien gejobbt?.md",
+    "niemiecki/3/Wo warst du im Sommer?.md",
+    "polski/pozytywizm/lalka/Wprowadzenie do problematyki \"Lalki\".md",
+    "biologia/Budowa i funkcja skóry.md",
+    "angielski/Writing a blog entry - writing session.md",
     "strefa wolna od BHP/Główne źródła prawa pracy w Polsce.md",
+    "angielski zawodowy/Computer Engineering.md",
+    "historia/Powstanie Stanów Zjednoczonych.md",
+    "historia/Zjednoczenie Włoch i Niemiec.md",
+    "Untitled.md",
+    "biologia/Układ Nerwowy.md",
+    "Untitled",
+    "polski/pozytywizm/lalka/Lalka - terminy sprawdzianów.md",
+    "polski/pozytywizm/lalka/lalka.pdf",
     "hit/Nacjonalizm a patriotyzm.md",
     "strefa wolna od BHP/Podstawowe pojęcia z zakresu BHP.md",
     "strefa wolna od BHP/Istota BHP.md",
     "angielski/\"used to\" - past tenses.md",
     "angielski/1. Listening and vocabulary - listening for gist and detail.md",
-    "niemiecki/3/1.2 Hast du in den Ferien gejobbt?.md",
-    "angielski zawodowy/Computer Engineering.md",
     "fizyka/termodynamika/Przemiany fazowe.md",
-    "polski/pozytywizm/lalen/Lalka - terminy sprawdzianów.md",
-    "polski/pozytywizm/lalen/lalka.pdf",
     "geografia/rypki.md",
-    "historia/Zjednoczenie Włoch i Niemiec.md",
     "historia/Przypomnienie informacji z poprzednich lat.md",
     "chemia/Stopień dysocjacji roztworu.md",
-    "niemiecki/3/Hast du im Ferien gejoggt.md",
-    "chemia/Zapoznanie z programem nauczania i wymagania edukacyjne i kryteria oceniania blablabla organizacja 2024.md",
-    "biologia/Układ Nerwowy.md",
-    "polski/pozytywizm/Wymagania edukacyjne - klasa III.md",
-    "hit/Obywatele i naród.md",
     "hit",
-    "angielski/Present tenses - revision.md",
     "strefa wolna od BHP",
-    "angielski/Vocabulary - TV shows.md",
-    "angielski/English in use.md",
-    "angielski/Review 8.md",
-    "fizyka/termodynamika/Ciepło właściwe.md",
     "angielski zawodowy",
-    "fizyka/termodynamika/Rozszerzalność cieplna.md",
-    "fizyka/Untitled.md",
-    "polski/pozytywizm/lalen",
+    "polski/pozytywizm/lalka",
     "misc",
     "biologia/pso.md~",
     "historia",
     "niemiecki/3",
-    "niemiecki/2",
     "fizyka/elektryczność i elektromagnetyzm/standard_model.png",
     "fizyka/elektryczność i elektromagnetyzm/silnik.png"
   ]

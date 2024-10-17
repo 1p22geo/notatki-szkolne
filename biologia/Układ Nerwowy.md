@@ -8,7 +8,7 @@ Neuron - podstawowa jednostka czynnościowe i strukturalna układu nerwowego
                    |                        /          |
 zakończenia aksonów     |                      / ---- \    \/
 -\-                     \/                   /           \ -------
-   \__####--#####--#####---######--#### ####      o <--- jądro komórkowe
+ \__####--#####--#####---######--#### ####      o <--- jądro komórkowe
 ---/ /              /\                   #### \         /
 -/                   |                   /     \ -----
     /\              |                  |         .
@@ -109,3 +109,30 @@ budowa tkanki nerwowowej
 ochrona mózgowia
 podział mózgowia
 to co omówiliśmy do tej pory, to co zaczeliśmy w zeszłym roku
+
+
+# Obwodowy układ nerwowy
+Jego funkcją jest zbieranie informacji ze środowiska zewnętrzego i wewnętrzengo. Informuje układ centralny o tym co się dzieje na zewnątrz (na świecie) i wewnątrz ciała
+
+Składa się z:
+- receptorów
+- neurony czuciowe
+- pęczki nerwowe
+
+Droga impulsu nerwowego od receptora do efektora nazywamy łukiem odruchowym.
+
+Odruchy bezwarunkowe:
+- odruch kolanowy
+- odruch cieplny
+- odsunięcie ręki od bólu
+Odruchy warunkowe:
+- jazda na rowerze
+- przechodzenie na światłach
+
+### Rodzaje receptorów
+- fotoreceptory
+- chemoreceptory
+- mechanoreceptory
+- termoreceptory
+
+
