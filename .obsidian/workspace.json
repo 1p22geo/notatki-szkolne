@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "78b592bb00365c02",
+        "id": "2406f618dc2fa428",
         "type": "tabs",
         "children": [
           {
-            "id": "931253fb2a476091",
+            "id": "b9d41e624819c32d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "niemiecki/3/Was ist dein Lieblingssport?.md",
+                "file": "polski/pozytywizm/Motywy zbrodni Raskolnikowa.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Motywy zbrodni Raskolnikowa"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "niemiecki/3/Was ist dein Lieblingssport?.md",
+                "file": "polski/pozytywizm/lalka/Trzy pokolenia idealistów w \"Lalce\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Trzy pokolenia idealistów w \"Lalce\""
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "niemiecki/3/Was ist dein Lieblingssport?.md",
+                "file": "polski/pozytywizm/lalka/Trzy pokolenia idealistów w \"Lalce\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Trzy pokolenia idealistów w \"Lalce\""
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "niemiecki/3/Was ist dein Lieblingssport?.md"
-              }
+                "file": "polski/pozytywizm/lalka/Trzy pokolenia idealistów w \"Lalce\".md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Trzy pokolenia idealistów w \"Lalce\""
             }
           }
         ]
@@ -146,36 +162,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "931253fb2a476091",
+  "active": "b9d41e624819c32d",
   "lastOpenFiles": [
-    "niemiecki/3/So wohne ich.md",
-    "niemiecki/3/Was ist dein Lieblingssport?.md",
-    "polski/pozytywizm/lalka/Trzy pokolenia idealistów w \"Lalce\".md",
-    "niemiecki/3/Wo wohnst du?.md",
-    "niemiecki/3/Mein Zimmer ist cool.md",
-    "niemiecki/3/1.2 Hast du in den Ferien gejobbt?.md",
-    "niemiecki/3/Wo warst du im Sommer?.md",
+    "biologia/Budowa i funkcje układu ruchu.md",
+    "historia/Nowe idee - ideologie pierwszej połowy XIX w..md",
+    "niemiecki/3/Alles gute zum Geburstag - Nummern.md",
+    "angielski/Friends and foes - vocabulary.md",
+    "hit/to coś o obrazach.md",
+    "przedsięmbiorstwa/2024-05-16 zadanie.md",
+    "polski/pozytywizm/Motywy zbrodni Raskolnikowa.md",
+    "polski/pozytywizm/Interpretacja artykułu.md",
+    "polski/pozytywizm/Petersburg w powieści Dostojewskiego - wprowadzenie do problematyki Zbrodni i Kary.md",
+    "strefa wolna od BHP/zadanie 6.md",
+    "angielski/A form entry - writing workshops.md",
+    "fizyka/termodynamika/Powtórzenie - termodynamika.md",
+    "hit/to coś o faszyźmie.md",
     "polski/pozytywizm/lalka/Wprowadzenie do problematyki \"Lalki\".md",
-    "biologia/Budowa i funkcja skóry.md",
-    "angielski/Writing a blog entry - writing session.md",
-    "strefa wolna od BHP/Główne źródła prawa pracy w Polsce.md",
-    "angielski zawodowy/Computer Engineering.md",
-    "historia/Powstanie Stanów Zjednoczonych.md",
-    "historia/Zjednoczenie Włoch i Niemiec.md",
-    "Untitled.md",
-    "biologia/Układ Nerwowy.md",
-    "Untitled",
+    "polski/pozytywizm/lalka/Dzieje Wokulskiego.md",
+    "polski/pozytywizm/lalka/Trzy pokolenia idealistów w \"Lalce\".md",
     "polski/pozytywizm/lalka/Lalka - terminy sprawdzianów.md",
+    "polski/pozytywizm/Wymagania edukacyjne - klasa III.md",
+    "polski/pozytywizm/Hołd złożony bezimiennym bohaterom w utworze Gloria Victis.md",
+    "polski/pozytywizm/Gloria Victis.md",
     "polski/pozytywizm/lalka/lalka.pdf",
-    "hit/Nacjonalizm a patriotyzm.md",
-    "strefa wolna od BHP/Podstawowe pojęcia z zakresu BHP.md",
-    "strefa wolna od BHP/Istota BHP.md",
-    "angielski/\"used to\" - past tenses.md",
-    "angielski/1. Listening and vocabulary - listening for gist and detail.md",
-    "fizyka/termodynamika/Przemiany fazowe.md",
     "geografia/rypki.md",
-    "historia/Przypomnienie informacji z poprzednich lat.md",
-    "chemia/Stopień dysocjacji roztworu.md",
+    "angielski zawodowy/Computer Engineering.md",
+    "historia/Powstanie styczniowe.md",
+    "niemiecki/3/Was ist dein Lieblingssport?.md",
+    "niemiecki/3/Modalverben in Prätertitum.md",
+    "angielski/Review 1.md",
+    "Untitled",
     "hit",
     "strefa wolna od BHP",
     "angielski zawodowy",
