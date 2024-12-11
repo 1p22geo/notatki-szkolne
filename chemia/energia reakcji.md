@@ -1,0 +1,19 @@
+- reakcja endoenergetyczna
+	- pobiera energię w jakiejś formie z otoczenia
+	- (n.p. fotosynteza - pobiera światło)
+- reakcja egzoenergetyczna
+	- wydziela energię w jakiejś formie do otoczenia
+	- (n.p. wydziela światło)
+- reakcja endotermiczna
+	- pobiera ciepło z otoczenia potrzebne do reakcji
+	- ochładza otoczenie
+	- $\Delta H$ jest ujemna
+- reakcja egzotermiczna
+	- wydziela ciepło do otoczenia
+	- ociepla otoczenie
+	- $\Delta H$ jest dodatnia
+- entalpia
+	- suma energii wewnętrznej układu oraz iloczynu ciśnienia i objętości
+	- $H = U + pV$
+	- rozważa się jej różnicę, czyli całkowitą zmianę ciepła układu
+	- przy małym ciśnieniu (oraz bez przemian gazowych) zmiana entalpii jest w przybliżeniu równa ciepłu dostarczonemu do układu

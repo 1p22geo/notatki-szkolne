@@ -13,3 +13,4 @@ Powodów jest kilka:
 - teoria ogłoszona kilka miesięcy wcześniej w opublikowanym przez Raskolnikowa artykule "O zbrodni"
 
 Wydarzenia opisane w Epilogu dzieją się półtora roku później, zrelacjonowany zostaje proces Raskolnikowa, zesłanie na katorgę, i losy jego rodziny, a także śmierć jego matki, i małżeństwo siostry Dunii z Razumichinem.
+
