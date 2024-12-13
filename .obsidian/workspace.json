@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "polski/pozytywizm/Moralne zmartwychwstanie Raskolnikowa.md",
+                "file": "polski/pozytywizm/Powieść polifoniczna.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Moralne zmartwychwstanie Raskolnikowa"
+              "title": "Powieść polifoniczna"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#polski",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,6 +164,11 @@
   },
   "active": "a81b0159a527c55a",
   "lastOpenFiles": [
+    "polski/pozytywizm/Moralne zmartwychwstanie Raskolnikowa.md",
+    "polski/pozytywizm/Powieść polifoniczna.md",
+    "polski/pozytywizm/Motywy zbrodni Raskolnikowa.md",
+    "polski/pozytywizm/Interpretacja artykułu.md",
+    "polski/pozytywizm/Petersburg w powieści Dostojewskiego - wprowadzenie do problematyki Zbrodni i Kary.md",
     "angielski/kl. 3/Opinion essay - formal writing.md",
     "angielski/kl. 3/Negotiating, apologising, asking for permission.md",
     "historia/W przedędniu wielkiej wojny.md",
@@ -178,7 +183,6 @@
     "hit/jana matejko.md",
     "niemiecki/3/Rekcja czasownika.md",
     "fizyka/termodynamika/Efekt cieplarniany.md",
-    "polski/pozytywizm/Moralne zmartwychwstanie Raskolnikowa.md",
     "misc/równości nierówności.md",
     "historia/Podsumowanie.md",
     "angielski/kl. 3/1. Listening and vocabulary - listening for gist and detail.md",
@@ -190,10 +194,6 @@
     "fizyka/termodynamika/Podwójna natura światła.md",
     "fizyka/termodynamika/Powtórzenie - termodynamika.md",
     "fizyka/termodynamika/Cząstki i energia.md",
-    "fizyka/termodynamika/Rozszerzalność cieplna.md",
-    "fizyka/termodynamika/Ciepło właściwe.md",
-    "fizyka/termodynamika/Przemiany fazowe.md",
-    "historia/Przypomnienie informacji z poprzednich lat.md",
     "polski/pozytywizm/lalka/lalka.pdf",
     "hit",
     "strefa wolna od BHP",
