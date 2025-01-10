@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "polski/pozytywizm/Powieść polifoniczna.md",
+                "file": "angielski/kl. 3/Opinion essay - formal writing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Powieść polifoniczna"
+              "title": "Opinion essay - formal writing"
+            }
+          },
+          {
+            "id": "2759b53b011a7d03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "polski/Młoda Polska/Pesymizm końca wieku i jego wyraz w wierszu Kazimierza Przerwy-Tetmajera \"Koniec wieku XIX\".md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pesymizm końca wieku i jego wyraz w wierszu Kazimierza Przerwy-Tetmajera \"Koniec wieku XIX\""
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,14 +177,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a81b0159a527c55a",
+  "active": "2759b53b011a7d03",
   "lastOpenFiles": [
-    "polski/pozytywizm/Moralne zmartwychwstanie Raskolnikowa.md",
+    "polski/Młoda Polska/Dekadencja, czyli schyłek - wprowadzenie do epoki.md",
+    "polski/Młoda Polska/Pesymizm końca wieku i jego wyraz w wierszu Kazimierza Przerwy-Tetmajera \"Koniec wieku XIX\".md",
+    "angielski/kl. 3/Opinion essay - formal writing.md",
+    "Untitled.md",
+    "fizyka/termodynamika/Podwójna natura światła.md",
+    "fizyka/termodynamika/Powtórzenie - termodynamika.md",
+    "fizyka/termodynamika/Efekt cieplarniany.md",
     "polski/pozytywizm/Powieść polifoniczna.md",
-    "polski/pozytywizm/Motywy zbrodni Raskolnikowa.md",
     "polski/pozytywizm/Interpretacja artykułu.md",
     "polski/pozytywizm/Petersburg w powieści Dostojewskiego - wprowadzenie do problematyki Zbrodni i Kary.md",
-    "angielski/kl. 3/Opinion essay - formal writing.md",
+    "polski/pozytywizm/Moralne zmartwychwstanie Raskolnikowa.md",
+    "polski/pozytywizm/Motywy zbrodni Raskolnikowa.md",
+    "polski/pozytywizm/Wprowadzenie do europejskiego pozytywizmu.md",
+    "polski/Młoda Polska",
+    "polski/Untitled.md",
     "angielski/kl. 3/Negotiating, apologising, asking for permission.md",
     "historia/W przedędniu wielkiej wojny.md",
     "chemia/energia reakcji.md",
@@ -182,24 +206,15 @@
     "angielski zawodowy/Computer Engineering.md",
     "hit/jana matejko.md",
     "niemiecki/3/Rekcja czasownika.md",
-    "fizyka/termodynamika/Efekt cieplarniany.md",
     "misc/równości nierówności.md",
-    "historia/Podsumowanie.md",
-    "angielski/kl. 3/1. Listening and vocabulary - listening for gist and detail.md",
     "angielski/kl. 3",
     "Untitled",
-    "angielski/kl. 2/English in use.md",
     "angielski/kl. 2",
-    "angielski/Untitled.md",
-    "fizyka/termodynamika/Podwójna natura światła.md",
-    "fizyka/termodynamika/Powtórzenie - termodynamika.md",
-    "fizyka/termodynamika/Cząstki i energia.md",
     "polski/pozytywizm/lalka/lalka.pdf",
     "hit",
     "strefa wolna od BHP",
     "angielski zawodowy",
     "polski/pozytywizm/lalka",
-    "misc",
     "fizyka/elektryczność i elektromagnetyzm/standard_model.png",
     "fizyka/elektryczność i elektromagnetyzm/silnik.png"
   ]

@@ -7,7 +7,7 @@
 - inversion, conditionals, cleft sentences, difficult grammar
 
 ## Opinion essay requirements
-- 150 words, checked only on extended exam
+- 150 words, length checked only on extended exam
 - specified topic, usually two parts
 - arguments of one side and arguments of other
 
